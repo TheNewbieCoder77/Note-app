@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Notes</string>
+    <string name="my_notes">My notes</string>
+    <string name="no_title">No title</string>
+    <string name="type_your_note">Type your note...</string>
+    <string name="note_subtitle">Note subtitle</string>
+    <string name="enter_url">Enter URL</string>
+    <string name="add_url">Add URL</string>
+    <string name="add">ADD</string>
+    <string name="cancel">CANCEL</string>
+    <string name="click_here">Click here</string>
+    <string name="delete_note">Delete note</string>
+    <string name="are_you_sure_you_want_to_delete_this_note">Are you sure you want to delete this note?</string>
+    <string name="note_app">Note App</string>
+</resources>
